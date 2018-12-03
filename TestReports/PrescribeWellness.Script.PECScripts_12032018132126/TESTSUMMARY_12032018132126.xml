@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Template\Summary.xsl"?>
+<tests name="AdherenceRingsDisplayPercentageRanges" osversion="Microsoft Windows 10 Enterprise" browsername="-" runtype="Local run" agentname="-" buildnumber="-" testplan="-">
+  <codedui name="AdherenceRingsDisplayPercentageRanges">
+    <testid>-</testid>
+    <starttime>12/3/2018 1:21:26 PM</starttime>
+    <status>complete</status>
+    <file>AdherenceRingsDisplayPercentageRanges_12032018132126.xml</file>
+    <description>Validate AdherenceRingsDisplayPercentageRanges</description>
+    <result>Passed</result>
+    <endtime>12/3/2018 1:21:40 PM</endtime>
+    <runtime>14</runtime>
+  </codedui>
+</tests>
